@@ -2,3 +2,4 @@
 En construccuiòn
 
 Para ejecutar el sistema debes poner ´´npm install react´´´ Es como un ejemplo
+SISTEMA DE REGISTRO 2
